@@ -1,0 +1,4 @@
+include Aletheia/schema.sql
+graft Aletheia/static
+graft Aletheia/templates
+global-exclude *.pyc
